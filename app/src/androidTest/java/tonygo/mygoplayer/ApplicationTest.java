@@ -1,4 +1,4 @@
-package com.tonygo.mygoplayer;
+package tonygo.mygoplayer;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

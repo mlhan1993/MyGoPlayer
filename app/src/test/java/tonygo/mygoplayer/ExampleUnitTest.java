@@ -1,4 +1,4 @@
-package com.tonygo.mygoplayer;
+package tonygo.mygoplayer;
 
 import org.junit.Test;
 
